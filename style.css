@@ -5,4 +5,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+div {
+  padding: 20px 0 20px 20px;
+}
+
+pre {
+  padding: 10px 0 0;
+}
 /*# sourceMappingURL=style.css.map */
